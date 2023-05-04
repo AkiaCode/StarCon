@@ -64,10 +64,8 @@ int main() {
                 state != lastState[pin]) {
                 if (state) {
                     Keyboard.release(key);
-                    gpio_put(LED_PINS[pin], 0);
                 } else {
                     Keyboard.press(key);
-                    gpio_put(LED_PINS[pin], 1);
                 }
                 lastTime[pin] = now;
                 lastState[pin] = state;

@@ -13,7 +13,7 @@ file(MAKE_DIRECTORY
   "C:/Users/COM-AO/Downloads/StarCon/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp"
 )
 
-set(configSubDirs Debug;Release;MinSizeRel;RelWithDebInfo)
+set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
     file(MAKE_DIRECTORY "C:/Users/COM-AO/Downloads/StarCon/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/${subDir}")
 endforeach()

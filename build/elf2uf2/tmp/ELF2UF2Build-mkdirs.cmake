@@ -13,7 +13,7 @@ file(MAKE_DIRECTORY
   "C:/Users/COM-AO/Downloads/StarCon/build/elf2uf2/src/ELF2UF2Build-stamp"
 )
 
-set(configSubDirs Debug;Release;MinSizeRel;RelWithDebInfo)
+set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
     file(MAKE_DIRECTORY "C:/Users/COM-AO/Downloads/StarCon/build/elf2uf2/src/ELF2UF2Build-stamp/${subDir}")
 endforeach()
