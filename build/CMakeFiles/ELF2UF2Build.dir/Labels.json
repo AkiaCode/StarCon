@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/ELF2UF2Build"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/c481b624954b7b1dd98a01d6c7654a87/ELF2UF2Build.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/13e2812b32b829519fb7a4a157549f0f/ELF2UF2Build-complete.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/72d57a47e84647a4c09fd6313dd5ae6a/ELF2UF2Build-build.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/72d57a47e84647a4c09fd6313dd5ae6a/ELF2UF2Build-configure.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/72d57a47e84647a4c09fd6313dd5ae6a/ELF2UF2Build-download.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/72d57a47e84647a4c09fd6313dd5ae6a/ELF2UF2Build-install.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/72d57a47e84647a4c09fd6313dd5ae6a/ELF2UF2Build-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/72d57a47e84647a4c09fd6313dd5ae6a/ELF2UF2Build-patch.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/72d57a47e84647a4c09fd6313dd5ae6a/ELF2UF2Build-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ELF2UF2Build"
+		],
+		"name" : "ELF2UF2Build"
+	}
+}

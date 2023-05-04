@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/dfa378927b8274066b795c6cd4899435/PioasmBuild.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/e7aad0c132e84cf33ef5532963511071/PioasmBuild-complete.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/0caca220be04f924c122ff1d1dc23d19/PioasmBuild-build.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/0caca220be04f924c122ff1d1dc23d19/PioasmBuild-configure.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/0caca220be04f924c122ff1d1dc23d19/PioasmBuild-download.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/0caca220be04f924c122ff1d1dc23d19/PioasmBuild-install.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/0caca220be04f924c122ff1d1dc23d19/PioasmBuild-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/0caca220be04f924c122ff1d1dc23d19/PioasmBuild-patch.rule"
+		},
+		{
+			"file" : "C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/0caca220be04f924c122ff1d1dc23d19/PioasmBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PioasmBuild"
+		],
+		"name" : "PioasmBuild"
+	}
+}

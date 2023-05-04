@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeASMInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/GNU-ASM.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/GNU.cmake
+C:/Users/COM-AO/Downloads/StarCon/pico-sdk/CMakeLists.txt
+C:/Users/COM-AO/Downloads/StarCon/pico-sdk/pico_sdk_init.cmake
+C:/Users/COM-AO/Downloads/StarCon/pico-sdk/src/common/pico_base/generate_config_header.cmake
+C:/Users/COM-AO/Downloads/StarCon/pico-sdk/src/common/pico_base/include/pico/version.h.in

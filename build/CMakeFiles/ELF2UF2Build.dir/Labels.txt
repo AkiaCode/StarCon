@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/ELF2UF2Build
+C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/c481b624954b7b1dd98a01d6c7654a87/ELF2UF2Build.rule
+C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/13e2812b32b829519fb7a4a157549f0f/ELF2UF2Build-complete.rule
+C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/72d57a47e84647a4c09fd6313dd5ae6a/ELF2UF2Build-build.rule
+C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/72d57a47e84647a4c09fd6313dd5ae6a/ELF2UF2Build-configure.rule
+C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/72d57a47e84647a4c09fd6313dd5ae6a/ELF2UF2Build-download.rule
+C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/72d57a47e84647a4c09fd6313dd5ae6a/ELF2UF2Build-install.rule
+C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/72d57a47e84647a4c09fd6313dd5ae6a/ELF2UF2Build-mkdir.rule
+C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/72d57a47e84647a4c09fd6313dd5ae6a/ELF2UF2Build-patch.rule
+C:/Users/COM-AO/Downloads/StarCon/build/CMakeFiles/72d57a47e84647a4c09fd6313dd5ae6a/ELF2UF2Build-update.rule
